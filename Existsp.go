@@ -1,7 +1,7 @@
 package file
 
 import (
-	"github.com/sam-caldwell/monorepo/go/wrappers/os"
+	"os"
 )
 
 // Existsp - Return boolean value if file exists

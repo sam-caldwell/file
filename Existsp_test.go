@@ -1,8 +1,8 @@
 package file
 
 import (
-	"github.com/sam-caldwell/monorepo/go/wrappers/os"
 	"io/ioutil"
+	"os"
 	"testing"
 )
 

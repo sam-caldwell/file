@@ -2,7 +2,7 @@ package file
 
 import (
 	"fmt"
-	"github.com/sam-caldwell/errors/v2"
+	"github.com/sam-caldwell/errors"
 	"github.com/sam-caldwell/extensions"
 )
 
