@@ -1,11 +1,11 @@
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/sam-caldwell/ansi v1.0.0 h1:eIcaSowSIDGy+sa8In6RWx/Mde99Lpt0EUxt7W1wcsg=
-github.com/sam-caldwell/ansi v1.0.0/go.mod h1:6Ac8q82OJXXFNOxV2yz+D8G8TbaMxaBAgZq1Z2PLaaI=
+github.com/sam-caldwell/ansi v1.0.1 h1:v71/1jsoBxgF7q/erUUa54TS0t5a0+bOsea98KTg5Lo=
+github.com/sam-caldwell/ansi v1.0.1/go.mod h1:A3i0CNTSo2VsQybJqyNwb3J6UDWJRZuEbW+3Q2Hs2hg=
 github.com/sam-caldwell/errors v1.0.6 h1:MCV8zJ2AciyvWh/AZU002YjaQQarAsNxV463rCPz88c=
 github.com/sam-caldwell/errors v1.0.6/go.mod h1:lZIVGM3grlaHjtZziLfGruJvF1cP+QTERP5ZavehpX0=
-github.com/sam-caldwell/exit v1.0.0 h1:zqVdK1Pdpww1RRTzwOAq1OMDwLLUUd94T2gqQF2kpHc=
-github.com/sam-caldwell/exit v1.0.0/go.mod h1:gy6m0KCj1RZ+KafgZVahgAxdwVm9pud/6O+lZz0NpFw=
+github.com/sam-caldwell/exit v1.0.2 h1:9OSz8+9KE9cqQIQcex2+Egd91LGclfn4RKLr2CU7vmo=
+github.com/sam-caldwell/exit v1.0.2/go.mod h1:gy6m0KCj1RZ+KafgZVahgAxdwVm9pud/6O+lZz0NpFw=
 github.com/sam-caldwell/extensions v1.0.3 h1:qiPEf9Tc1niS3mECI9/H+DbhvkIWpUGiBuseS7KAT1o=
 github.com/sam-caldwell/extensions v1.0.3/go.mod h1:v6w3ViJtk7nYHUdLyeYKqmm2wbWkg8KgXwzGHrV2t9A=
 github.com/sam-caldwell/size v1.0.0 h1:bvlFRTmbFrgMdR2EoGkoTArRkRhMTRNy3lkW+AJPboc=
